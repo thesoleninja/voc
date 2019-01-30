@@ -22,6 +22,7 @@ VOC
 
 .. image:: https://badges.gitter.im/pybee/general.svg
     :target: https://gitter.im/pybee/general
+This is a test on how to start open source.
 
 A transpiler that converts Python code into Java bytecode.
 
